@@ -25,7 +25,7 @@ Tools that watch the chain (mempool + new pool creations) and flag scams as they
 - [RektRadar](https://rektradar.io/) - Real-time Ethereum scam detector with mempool monitoring, deployer graph analysis (factory pattern + funding chain), and rug pull alerts. Free tier available; 36k+ tokens scanned, ~3.3k flagged as scams (open data). The codebase is open infrastructure (14 microservices on 3 nodes).
 - [DexTools — Token Score](https://www.dextools.io/) - Per-token risk score on the most active DEX explorer. Closed-source.
 - [DEX Screener — Audits tab](https://dexscreener.com/) - Surface honeypot/audit warnings inline with price charts.
-- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 8 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 7 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
 
 ## Static & Bytecode Analysis
 
